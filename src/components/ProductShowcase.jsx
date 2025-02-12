@@ -2,12 +2,12 @@ import React from 'react';
 import ProductCard from './productCard';
 
 const products = [
-  { id: 1, name: "Apple", price: 2.99, image: "/public/images/apple.jpg" },
-  { id: 2, name: "Banana", price: 1.99, image: "/public/images/banana1.jpg" },
-  { id: 3, name: "Carrot", price: 0.99, image: "/public/images/Carrot.webp" },
-  { id: 1, name: "garlic", price: 2.99, image: "/public/images/garlic.jpg" },
-  { id: 2, name: "eggplant", price: 1.99, image: "/public/images/eggplant.jpg" },
-  { id: 3, name: "onion", price: 0.99, image: "/public/images/onion.jpg" },
+  { id: 1, name: "Apple", price: 2.99, image: "/images/apple.jpg" },
+  { id: 2, name: "Banana", price: 1.99, image: "/images/banana1.jpg" },
+  { id: 3, name: "Carrot", price: 0.99, image: "/images/Carrot.webp" },
+  { id: 1, name: "garlic", price: 2.99, image: "/images/garlic.jpg" },
+  { id: 2, name: "eggplant", price: 1.99, image: "/images/eggplant.jpg" },
+  { id: 3, name: "onion", price: 0.99, image: "/images/onion.jpg" },
 ];
 
 const ProductShowcase = () => {

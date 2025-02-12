@@ -16,7 +16,7 @@ const Home = () => {
       <ProductShowcase />
       <Features />
       <FeatureCards/>
-      <img className='w-full' src="/public/images/hero3.png"/>
+      <img className='w-full' src="/images/hero3.png"/>
       <ProductCardBanner/>
       <PeopleWords/>
       <Footer />

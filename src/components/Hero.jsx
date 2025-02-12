@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section className="text-white text-center animate-fade-in">
       <div >
-      <div class="relative h-screen flex items-center justify-center bg-[url('/public/images/Hero.webp')] bg-cover bg-center">
+      <div class="relative h-screen flex items-center justify-center bg-[url('/images/Hero.webp')] bg-cover bg-center">
  
   <div class="absolute inset-0 bg-black/60"></div>
 

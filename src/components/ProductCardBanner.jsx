@@ -3,7 +3,7 @@ import { faShoppingBag } from "@fortawesome/free-solid-svg-icons";
 
 const products = [
   {
-    image: "/public/images/cardimage1.jpg", // Replace with actual image URL
+    image: "/images/cardimage1.jpg", // Replace with actual image URL
     category: "Snacks",
     rating: 4.5,
     title: "Best snacks with hazel nut mix pack 200gm",
@@ -11,7 +11,7 @@ const products = [
     oldPrice: "$123.25",
   },
   {
-    image: "/public/images/cardimage2.jpg",
+    image: "/images/cardimage2.jpg",
     category: "Snacks",
     rating: 5.0,
     title: "Sweet snacks crunchy nut mix 250gm pack",
@@ -19,7 +19,7 @@ const products = [
     oldPrice: "$110.00",
   },
   {
-    image: "/public/images/cardimage3.jpg",
+    image: "/images/cardimage3.jpg",
     category: "Snacks",
     rating: 5.0,
     title: "Sweet snacks crunchy nut mix 250gm pack",

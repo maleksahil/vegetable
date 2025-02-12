@@ -3,21 +3,21 @@ import React from 'react';
 const PeopleWords = () => {
   const people = [
     {
-      image: '/public/images/person1.jpg', // Replace with actual image path
+      image: '/images/person1.jpg', // Replace with actual image path
       name: 'Stephen Smith',
       title: 'Co Founder',
       quote: 'elusmpsu dolor sit amet, conse cte tur ng elit, sed do eiusmod tem lacus vel facilisis.',
       rating: 5,
     },
     {
-      image: '/public/images/person2.jpg', // Replace with actual image path
+      image: '/images/person2.jpg', // Replace with actual image path
       name: 'Lorem Robinson',
       title: 'Manager',
       quote: 'elusmpsu dolor sit amet, conse cte tur ng elit, sed do eiusmod tem lacus vel facilisis.',
       rating: 3,
     },
     {
-      image: '/public/images/person3.jpg', // Replace with actual image path
+      image: '/images/person3.jpg', // Replace with actual image path
       name: 'Saddika Alard',
       title: 'Team Leader',
       quote: 'elusmpsu dolor sit amet, conse cte tur ng elit, sed do eiusmod tem lacus vel facilisis.',

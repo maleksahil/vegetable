@@ -57,7 +57,7 @@ const ProductSection = () => (
     ))}
     <div className="w-full sm:w-[40%] h-auto bg-gray-200 rounded-lg flex flex-col justify-center items-end text-center p-4 relative">
       <img
-        src="/public/images/cardbanner.jpg"
+        src="/images/cardbanner.jpg"
         alt="Organic Vegetables"
         className="absolute inset-0 w-full h-full object-cover rounded-lg"
       />

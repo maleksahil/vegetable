@@ -2,12 +2,12 @@ import React from "react";
 import ProductCard from "../components/productCard";
 
 const products = [
-  { id: 1, name: "Tomato", price: 2.50, image: "/public/images/tomato.jpg" },
-  { id: 2, name: "Potato", price: 1.75, image: "/public/images/potato.webp" },
-  { id: 3, name: "Spinch", price: 1.75, image: "/public/images/Spinach.webp" },
-  { id: 4, name: "coliflower", price: 1.75, image: "/public/images/coliflower.jpg" },
-  { id: 5, name: "cabbage", price: 1.75, image: "/public/images/cabbage.webp" },
-  { id: 6, name: "green peals", price: 1.75, image: "/public/images/mutter.jpg" },
+  { id: 1, name: "Tomato", price: 2.50, image: "/images/tomato.jpg" },
+  { id: 2, name: "Potato", price: 1.75, image: "/images/potato.webp" },
+  { id: 3, name: "Spinach", price: 1.75, image: "/images/Spinach.webp" },
+  { id: 4, name: "Cauliflower", price: 1.75, image: "/images/coliflower.jpg" },
+  { id: 5, name: "Cabbage", price: 1.75, image: "/images/cabbage.webp" },
+  { id: 6, name: "Green Peas", price: 1.75, image: "/images/mutter.jpg" },
 ];
 
 const Shop = () => {
